@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@layer utilities {
+  .font-adlam {
+    font-family: "ADLaM Display", system-ui;
+  }
+ 
+.font-sora {
+  font-family: "Sora", sans-serif;
+}
+}
